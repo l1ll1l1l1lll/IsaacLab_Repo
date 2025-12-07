@@ -10,6 +10,8 @@ from isaaclab.envs import DirectRLEnvCfg
 from isaaclab.scene import InteractiveSceneCfg
 from isaaclab.sim import SimulationCfg
 from isaaclab.utils import configclass
+from omni.isaac.core.utils import sim_utils
+
 
 
 @configclass
